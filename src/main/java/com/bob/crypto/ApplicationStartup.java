@@ -17,6 +17,8 @@ public class ApplicationStartup implements ApplicationListener<ApplicationReadyE
 	
 	@Override
 	public void onApplicationEvent(ApplicationReadyEvent event) {
+		//TODO create a scheduler to fetch crypto data on a daily
+		
 		//coinsDataService.fetchCoins();
 		//coinsDataService.fetchCoinHistory(); 
 	}
