@@ -9,7 +9,8 @@ import org.springframework.http.MediaType;
 public class HttpUtils {
 
 	private static String apiHost = "coinranking1.p.rapidapi.com";
-	private static String apiKey = "45519b6049msh2ba7a11ad9add0ep1b7892jsn29d8c8fa3948";
+	//put in your XRaoid-API KEy
+	private static String apiKey = "";
 	
 	public static HttpEntity<String> getHttpEntity(){
 		HttpHeaders headers = new HttpHeaders();
