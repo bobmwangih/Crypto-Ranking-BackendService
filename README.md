@@ -20,7 +20,6 @@ The Application exposes two `GET` endPoints :-
 1. `GET` : `/api/v1/coins` return a list of all Cryptos 
 
 ```js
-
 [
 {
 uuid: "Qwsogvtv82FCd",
@@ -68,7 +67,6 @@ coinrankingUrl: "https://coinranking.com/coin/Qwsogvtv82FCd+bitcoin-btc",
 _24hVolume: null,
 btcPrice: "1"
 },etc...]
-
 ```
 
 2. `GET` : `/api/v1/coins/{symbol}/{timePeriod}` return a list of all timeStamps 
@@ -84,4 +82,3 @@ timestamp: "2022-04-29 11:20:00",
 value: 2867.77
 },etc...]
 ```
-
