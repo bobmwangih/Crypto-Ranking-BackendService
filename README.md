@@ -67,7 +67,7 @@ btcPrice: "1"
 },etc...]
 ```
 
-2. `GET` : `/api/v1/coins/{symbol}/{timePeriod}` return a list of all timeStamps 
+2. `GET` : `/api/v1/coins/{symbol}/{timePeriod}` return a list of all timeStamps for one CryptoCoin at a specific time eg `BTC/24h` / `BTC/1y`
 
 ```js
 [
