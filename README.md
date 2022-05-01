@@ -11,8 +11,6 @@
 5. X-RapidAPI-Key
 ```
 
-```
-
 ## Testing
 
 The Application exposes two `GET` endPoints :-
