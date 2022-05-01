@@ -19,7 +19,7 @@ The Application exposes two `GET` endPoints :-
 
 1. `GET` : `/api/v1/coins` return a list of all Cryptos 
 
-```js
+```java
 [
 {
 uuid: "Qwsogvtv82FCd",
