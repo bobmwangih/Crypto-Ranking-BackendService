@@ -15,12 +15,6 @@
 
 ## Testing
 
-Testing needs you to clone this repo.
-
-Run [npm start]
-
-Do a `post` request to the endpoint `{your root domain}/stk/push` and watch as the `magic` unfolds!!.
-
 The Application exposes two `GET` endPoints :-
 
 1. `GET` : `/api/v1/coins` return a list of all Cryptos 
